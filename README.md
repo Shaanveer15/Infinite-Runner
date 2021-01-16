@@ -1,2 +1,2 @@
-# Infinite-Runner
-Made on VSC
+# TREX
+worked on p5 editor
